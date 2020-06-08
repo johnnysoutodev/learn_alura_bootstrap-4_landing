@@ -6,7 +6,7 @@
 	],
 	"settings": {
 		"liveServer.settings.CustomBrowser": "chrome",
-		"liveServer.settings.root": "/dist/app/",
+		"liveServer.settings.root": "/src/app/",
 		"liveServer.settings.fullReload": true
 	}
 }
