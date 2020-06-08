@@ -1,5 +1,7 @@
 /* style.css */
 
 .imagem-carrossel {
-    height: 400px;
+    object-fit: cover;
+    object-position: 0% 0%;
+    height: 300px;
 }
