@@ -19,6 +19,12 @@
     color: #fff;
 }
 
+.botao-cor-especial:hover {
+    background-color: #fff;
+    color: #8b0000;
+    border-color: #8b0000;
+}
+
 .borda-cor-especial {
     border-color: #8b0000;
 }
