@@ -29,11 +29,11 @@
     border-color: #8b0000;
 }
 
-article {
-    width: 18rem;
-}
-
 .card-posicao-imagem {
     object-fit: cover;
     height: 200px;
+}
+
+.card-largura {
+    width: 18rem;
 }
