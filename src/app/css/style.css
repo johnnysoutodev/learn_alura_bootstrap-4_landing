@@ -32,3 +32,8 @@
 article {
     width: 18rem;
 }
+
+.card-posicao-imagem {
+    object-fit: cover;
+    height: 200px;
+}
