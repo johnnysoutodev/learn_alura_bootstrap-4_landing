@@ -28,3 +28,7 @@
 .borda-cor-especial {
     border-color: #8b0000;
 }
+
+article {
+    width: 18rem;
+}
